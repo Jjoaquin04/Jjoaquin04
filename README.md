@@ -10,19 +10,25 @@
 
 <hr style="height:2px; border-width:0; background-color:#ff00ff;">
 
-<h3 align="center">🚀 About me</h3>
-
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
+<table width="100%">
+  <tr>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+    <td align="center"><h3>🚀 About me</h3></td>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+  </tr>
+</table>
 
 <p align="left">👋 Hi! I'm Joaquin, a Computer Science student and software development enthusiast. I'm passionate about creating innovative solutions in the digital world.<br>💻 I specialize in Flutter, Backend, and Databases. I'm always exploring new technologies and challenging the limits of code.</p>
 
 <p align="center">🟢 Status: ONLINE</p>
 
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
-
-<h3 align="center">🛠 Technologies & Tools</h3>
-
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
+<table width="100%">
+  <tr>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+    <td align="center"><h3>🛠 Technologies & Tools</h3></td>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -42,22 +48,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
+<table width="100%">
+  <tr>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+    <td align="center"><h3>📊 GitHub Stats</h3></td>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+  </tr>
+</table>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
-
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Jjoaquin04&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Jjoaquin04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
 
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
-
-<h3 align="center">📩 Contact me</h3>
-
-<hr style="height:2px; border-width:0; background-color:#ff00ff;">
+<table width="100%">
+  <tr>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+    <td align="center"><h3>📩 Contact me</h3></td>
+    <td><hr style="height:2px; border-width:0; background-color:#ff00ff;"></td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaquin-fuentes-lópez-0b5209277" target="_blank">
