@@ -31,7 +31,7 @@
 
 ## 📬 Contact
 <p align="center">
-    <a href="https://www.linkedin.com/in/joaquin" target="_blank">
+    <a href="linkedin.com/in/joaquin-fuentes-lópez-0b5209277" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
     </a>
     <a href="mailto:jjoaquinfuenteslopez@gmail.com">
