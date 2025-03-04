@@ -3,7 +3,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=2d67c2&section=header&width=100%&reversal=false"/>
 </p>
 <h1 align="center" style="font-size: 3rem;" ><span id="typing"></span></h1>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=2d67c2&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world...;I'm+Joaquin,+Software+Developer;Passionate+about+technology+and+innovation!" alt="Typing SVG" /> </p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=2d67c2&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world...;I'm+Joaquin,+Software+Developer;%20Passionate+about+technology+and+innovation!" alt="Typing SVG" /> 
+</p>
+
 
 ## 🧑‍💻 About Me
 - 🎓 **Student of Computer Engineering**
