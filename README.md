@@ -3,9 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=2d67c2&section=header&width=100%&reversal=false"/>
 </p>
 <h1 align="center" style="font-size: 3rem;" ><span id="typing"></span></h1>
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=2d67c2&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world...;I'm+Joaquin,+Software+Developer;%20Passionate+about+technology+and+innovation!" alt="Typing SVG" /> 
-</p>
+<div>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2D67C2&center=true&width=width=1000&lines=Welcome+to+my+github+profile...;I'm+Joaquin%2C;Computer+Engineering+student;And+a+passionate+about+technology+and+innovation!" alt="Typing SVG" />
+  </p>
+</div>
 
 
 ## 🧑‍💻 About Me
