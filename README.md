@@ -5,10 +5,9 @@
 <h1 align="center" style="font-size: 3rem;" ><span id="typing"></span></h1>
 <div>
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2D67C2&center=true&width=width=1000&lines=Welcome+to+my+github+profile...;I'm+Joaquin%2C;Computer+Engineering+student;And+a+passionate+about+technology+and+innovation!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2D67C2&center=true&width=1000&lines=Welcome+to+my+github+profile...;I'm+Joaquin%2C;Computer+Engineering+student;And+a+passionate+about+technology+and+innovation!" alt="Typing SVG" />
   </p>
 </div>
-
 
 ## 🧑‍💻 About Me
 - 🎓 **Student of Computer Engineering**
@@ -17,21 +16,34 @@
 - 🌎 Always learning and building new projects
 
 ## 🛠 Tech Stack
+
+### ✅ Technologies I Know
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+    <img     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA"/>
+</p>
+    
+</p>
+
+### 📚 Technologies I'm Learning
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Database"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=joaquin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&width=100%" alt="Joaquin's GitHub Stats"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquin&theme=react-dark&hide_border=true&bg_color=00000000&width=100%" alt="Joaquin's Contribution Graph"/>
 </p>
 
 ## 📬 Contact
